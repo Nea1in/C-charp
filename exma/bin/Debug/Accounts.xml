@@ -1,0 +1,38 @@
+<accounts>
+  <DefaultAccount id="483ab0488a9707f9be44b32a28018cf5">
+    <ClientName>some</ClientName>
+    <currency>DOLLAR</currency>
+    <Balance>122.539005</Balance>
+    <journal>
+    </journal>
+  </DefaultAccount>
+  <DefaultAccount id="350f132841d2a295e8a74500b4f51495">
+    <ClientName>other</ClientName>
+    <currency>EURO</currency>
+    <Balance>346.459811600175</Balance>
+    <journal>
+    </journal>
+  </DefaultAccount>
+  <OverdraftAccount id="87ae059122aacfa90f9f40afa085ff3b">
+    <ClientName>red</ClientName>
+    <currency>DOLLAR</currency>
+    <Balance>789</Balance>
+    <journal />
+    <Limit>100</Limit>
+    <Percents>0</Percents>
+  </OverdraftAccount>
+  <OverdraftAccount id="fc1de0d4475cd08f293bff2f176425d6">
+    <ClientName>fad</ClientName>
+    <currency>DOLLAR</currency>
+    <Balance>100</Balance>
+    <journal />
+    <Limit>100</Limit>
+    <Percents>0</Percents>
+  </OverdraftAccount>
+  <DefaultAccount id="8007953087cea535e05960e665308bf3">
+  <ClientName>serg</ClientName>
+  <currency>DOLLAR</currency>
+  <Balance>123</Balance>
+  <journal />
+</DefaultAccount>
+</accounts>

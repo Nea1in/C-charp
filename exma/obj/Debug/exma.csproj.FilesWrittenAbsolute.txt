@@ -1,0 +1,10 @@
+/home/orest/RiderProjects/HwITSTEP/exma/exma/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/orest/RiderProjects/HwITSTEP/exma/exma/bin/Debug/exma.exe.mdb
+/home/orest/RiderProjects/HwITSTEP/exma/exma/bin/Debug/exma.exe
+/home/orest/RiderProjects/HwITSTEP/exma/exma/obj/Debug/exma.exe
+/home/orest/RiderProjects/HwITSTEP/exma/exma/obj/Debug/exma.exe.mdb
+/home/orest/Desktop/exma/exma/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/orest/Desktop/exma/exma/bin/Debug/exma.exe.mdb
+/home/orest/Desktop/exma/exma/bin/Debug/exma.exe
+/home/orest/Desktop/exma/exma/obj/Debug/exma.exe
+/home/orest/Desktop/exma/exma/obj/Debug/exma.exe.mdb

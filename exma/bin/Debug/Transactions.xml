@@ -1,0 +1,11 @@
+<transactions>
+  <transaction>
+  <date>2017-10-22T18:29:23.255646+03:00</date>
+  <Sum>23</Sum>
+  <purpose>a</purpose>
+  <SenderID>483ab0488a9707f9be44b32a28018cf5</SenderID>
+  <ReceiverID>350f132841d2a295e8a74500b4f51495</ReceiverID>
+  <currency>GRIVNA</currency>
+  <Verified>true</Verified>
+</transaction>
+</transactions>

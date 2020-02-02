@@ -1,0 +1,28 @@
+E:\exma\exma\bin\Debug\exma.exe
+E:\exma\exma\bin\Debug\exma.pdb
+E:\exma\exma\obj\Debug\exma.csprojResolveAssemblyReference.cache
+E:\exma\exma\obj\Debug\exma.csproj.CoreCompileInputs.cache
+E:\exma\exma\obj\Debug\exma.exe
+E:\exma\exma\obj\Debug\exma.pdb
+D:\ШАГ дз\exma\exma\bin\Debug\exma.exe
+D:\ШАГ дз\exma\exma\bin\Debug\exma.pdb
+D:\ШАГ дз\exma\exma\obj\Debug\exma.csprojResolveAssemblyReference.cache
+D:\ШАГ дз\exma\exma\obj\Debug\exma.csproj.CoreCompileInputs.cache
+D:\ШАГ дз\exma\exma\obj\Debug\exma.exe
+D:\ШАГ дз\exma\exma\obj\Debug\exma.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\exma\exma\exma\obj\Debug\exma.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\exma\exma\exma\obj\Debug\exma.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\exma\exma\exma\bin\Debug\exma.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\exma\exma\exma\bin\Debug\exma.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\exma\exma\exma\obj\Debug\exma.csprojResolveAssemblyReference.cache
+C:\Users\S\Desktop\Новая папка (2)\exz_1527762892\exz\exma\exma\exma\bin\Debug\exma.exe
+C:\Users\S\Desktop\Новая папка (2)\exz_1527762892\exz\exma\exma\exma\bin\Debug\exma.pdb
+C:\Users\S\Desktop\Новая папка (2)\exz_1527762892\exz\exma\exma\exma\obj\Debug\exma.csprojAssemblyReference.cache
+C:\Users\S\Desktop\Новая папка (2)\exz_1527762892\exz\exma\exma\exma\obj\Debug\exma.exe
+C:\Users\S\Desktop\Новая папка (2)\exz_1527762892\exz\exma\exma\exma\obj\Debug\exma.pdb
+C:\Users\S\Desktop\Новая папка (2)\1\exz_1527762892\exz\exma\exma\exma\bin\Debug\exma.exe
+C:\Users\S\Desktop\Новая папка (2)\1\exz_1527762892\exz\exma\exma\exma\bin\Debug\exma.pdb
+C:\Users\S\Desktop\Новая папка (2)\1\exz_1527762892\exz\exma\exma\exma\obj\Debug\exma.csprojAssemblyReference.cache
+C:\Users\S\Desktop\Новая папка (2)\1\exz_1527762892\exz\exma\exma\exma\obj\Debug\exma.sourcelink.json
+C:\Users\S\Desktop\Новая папка (2)\1\exz_1527762892\exz\exma\exma\exma\obj\Debug\exma.exe
+C:\Users\S\Desktop\Новая папка (2)\1\exz_1527762892\exz\exma\exma\exma\obj\Debug\exma.pdb
